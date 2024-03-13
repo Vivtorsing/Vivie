@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Vivie/static/css/main.a6c4bf37.css",
+    "main.js": "/Vivie/static/js/main.4c9f0967.js",
+    "static/js/453.19b0c778.chunk.js": "/Vivie/static/js/453.19b0c778.chunk.js",
+    "static/media/VivieIcon.png": "/Vivie/static/media/VivieIcon.a4596cd9be198f5ec93a.png",
+    "static/media/twitter.png": "/Vivie/static/media/twitter.2693b9b98d37edc6a558.png",
+    "static/media/youtube.webp": "/Vivie/static/media/youtube.0f616527d5ffd0b22da7.webp",
+    "index.html": "/Vivie/index.html",
+    "main.a6c4bf37.css.map": "/Vivie/static/css/main.a6c4bf37.css.map",
+    "main.4c9f0967.js.map": "/Vivie/static/js/main.4c9f0967.js.map",
+    "453.19b0c778.chunk.js.map": "/Vivie/static/js/453.19b0c778.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6c4bf37.css",
+    "static/js/main.4c9f0967.js"
+  ]
+}
